@@ -92,3 +92,12 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+/* Center all links globally */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
