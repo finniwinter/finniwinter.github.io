@@ -73,7 +73,7 @@ body {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  z-index: 99;
+  z-index: 9999;
   display: block;
 }
 
@@ -100,4 +100,10 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+
+
+.center-container {
+    text-align: center;
 }
